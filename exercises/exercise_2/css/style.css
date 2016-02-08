@@ -1,0 +1,32 @@
+body {
+	background-color: #067897;
+}
+
+p {
+	font-family:Helvetica, sans-serif; 
+	font-size: 18px;
+	color: #234567;
+	text-align: right;
+}
+
+h1 {
+	font-family: Arial, sans-serif;
+	font-size: 40px; 
+	color: #123456;
+	text-align: center;
+}
+
+ol {
+	font-family: Helvetica, sans-serif; 
+	color: white;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+h3 {
+	font-family: Helvetica, sans-serif;
+	color: white;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+}

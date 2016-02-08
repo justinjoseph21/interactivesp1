@@ -1,0 +1,143 @@
+body {
+	background-color: black;
+}
+
+p {
+	font-family:Helvetica, sans-serif; 
+	font-size: 18px;
+	color: #234567;
+	text-align: right;
+}
+
+h1 {
+	font-family: Arial, sans-serif;
+	font-size: 40px; 
+	color: green;
+	text-align: left;
+}
+
+ol {
+	font-family: Helvetica, sans-serif; 
+	color: white;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+h3 {
+	font-family: Helvetica, sans-serif;
+	color: green;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: left;
+}
+
+a { 
+	text-decoration: none;
+}
+
+a:link {
+    color: red;   
+}
+
+a:visited {
+    color: blue;   
+}
+
+a:hover {
+    color: green;   
+}
+
+a:active {
+    color: blue;
+}
+
+#artist {
+	width: 300px;
+	height: 500px;
+	background-color: green;
+	color: hotpink;
+	padding: 15px;
+	margin: 30px;
+	font-family: helvetica;
+	font-size: 40px;
+	font-weight: bold;
+	text-align: right;
+	border: 2px solid #0088dd;
+
+}
+
+#painter {
+	background-color:  red;
+	font-family: arial;
+	font-size: 70px;
+	font-weight: medium;
+	text-align: left;
+	border: 8px dashed;
+}
+
+#sculptor {
+	background-color:  white;
+	font-family: arial;
+	font-size: 70px;
+	font-weight: medium;
+	text-align: left;
+	border: 15px dotted solid double dashed #0000ff;
+	
+}
+
+#impressionist {
+	background-color:  yellow;
+	font-family: arial;
+	font-size: 70px;
+	font-weight: medium;
+	text-align: left;
+	border: 8px groove;
+}
+
+.sidebar {
+	background-color: blue;
+	height: 300px;
+	width: 130px;
+	color: red;
+}
+
+#square {
+	width: 300px;
+	height: 500px;
+	background-color: blue;
+	color: hotpink;
+	float: left;
+}
+
+#circle {
+	width: 300px;
+	height: 500px;
+	background-color: yellow;
+	color: hotpink;
+	float: left;
+}
+
+#rectangle {
+	width: 300px;
+	height: 500px;
+	background-color: red;
+	color: red;
+	float: left;
+}
+
+#triangle {
+	width: 300px;
+	height: 500px;
+	background-color: orange;
+	color: blue;
+	float: left;
+
+}
+
+#container {
+	width: 1000px;
+	height: 1000px;
+	background-color: green;
+	color: hotpink;
+	margin: auto;
+}

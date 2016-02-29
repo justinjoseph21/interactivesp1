@@ -1,0 +1,65 @@
+body {
+	background: white;
+}
+
+#container {
+	width: 100px;
+	height: 2000px;
+	margin: auto;
+	background: green;
+}
+
+#pink {
+	width: 1000px;
+	height: 350px;
+	background: pink;
+}
+
+#rectangle {
+	width: 1000px;
+	height: 200px;
+	margin-bottom: 10px;
+	background: blue;
+}
+
+#square {
+	width: 1000px;
+	height: 130px;
+	margin-bottom: 10px;
+	background: yellow;
+}
+
+#black{
+	width: 1000px;
+	height: 1450px;
+	background: black;
+}
+
+#circle {
+	width: 325px;
+	height: 1450px;
+	margin-right: 12.5px;
+	background: blue;
+	float: left;
+}
+
+#circle2 {
+	width: 325px;
+	height: 1450px;
+	margin-right: 12.5px;
+	background: green;
+	float: left;
+}
+
+#orange {
+	width: 325px;
+	height: 1450px;
+	float: left;
+	background: orange;
+}
+
+#purple {
+	width: 1000px;
+	height: 200px;
+	background: purple;
+}

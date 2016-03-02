@@ -1,5 +1,10 @@
+body {
+	background: #0000ff;
+}
+
 h1{
 	font: helvetica;
-	font-size: 80px;
-	font-color: blue;
+	font-size: 100px;
+	font-color: white;
+	position: left;
 }

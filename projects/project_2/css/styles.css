@@ -3,7 +3,7 @@ background: white ;
 
 }
 
-#large {
+#largecontainer {
 	width: 5000px;
 	height: 5000px;
 	position: absolute;
@@ -459,3 +459,59 @@ background: white ;
 	position: absolute;
 	top: 3950px;
  }
+
+ #karuk {
+ 	left: 2015px;
+	position: absolute;
+	top: 4350px;
+ }
+
+ #karuk2 {
+ 	left: 3615px;
+ 	position: absolute;
+ 	top: 4350px;
+ }
+
+ #chocolate1 { 
+ 	left: 3615px;
+ 	position: absolute;
+ 	top: 4700px;
+ }
+
+  #chocolate2 { 
+ 	left: 3900px;
+ 	position: absolute;
+ 	top: 4700px;
+ }
+
+  #chocolate3 { 
+ 	left: 4190px;
+ 	position: absolute;
+ 	top: 4700px;
+ }
+
+ #chocolate4 { 
+ 	left: 4470px;
+ 	position: absolute;
+ 	top: 4700px;
+ }
+
+#vanilla1 {
+	left: -10px;
+	position: absolute;
+	top:4350px;
+}
+
+#vanilla2 {
+	left: 640px;
+	position: absolute;
+	top:4350px;
+	
+}
+
+#vanilla3 {
+	left: 1280px;
+	position: absolute;
+	top:4350px;
+	
+}

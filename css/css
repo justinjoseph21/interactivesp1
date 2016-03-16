@@ -14,10 +14,9 @@ h3 {
 	font: helvetica;
 	font-size: 120px;
 	font-color: white;
-	position: left;
+	position: left; 
+	text-decoration: none
 
 }
 
-a {
-	text-decoration: none;
-}
+

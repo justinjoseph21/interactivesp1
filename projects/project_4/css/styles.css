@@ -1,0 +1,454 @@
+@font-face {
+    font-family: Val;
+    src: url(VAL.otf);
+}
+
+@font-face {
+    font-family: HuskyStash-Regular;
+    src: url(HuskyStash-Regular.otf);
+ }
+
+@font-face {
+    font-family: Shagadelic Bold;
+    src: url(Shagadelic Bold.ttf);
+}
+
+body {
+	background-color: black;
+}
+
+.boogie1 {
+	color: red;
+	font-family: HuskyStash-Regular;
+	font-size: 50px;
+	text-align: left;
+    margin-top: -10px;
+    
+
+}
+
+.boogie2 {
+	color: purple;
+	font-family: HuskyStash-Regular;
+	font-size: 50px;
+	text-align: left;
+    margin-top: -60px;
+    margin-left: 450px;
+}
+
+.boogie3 {
+	color: red;
+	font-family: HuskyStash-Regular;
+	font-size: 50px;
+	text-align: left;
+	margin-top: -60px;
+    margin-left: 900px;
+}
+.boogie4 {
+    color: purple;
+    font-family: HuskyStash-Regular;
+    font-size: 50px;
+    text-align: left;
+    margin-top: -10px;
+    
+
+}
+
+.boogie5 {
+    color: red;
+    font-family: HuskyStash-Regular;
+    font-size: 50px;
+    text-align: left;
+    margin-top: -60px;
+    margin-left: 450px;
+}
+
+.boogie6 {
+    color: purple;
+    font-family: HuskyStash-Regular;
+    font-size: 50px;
+    text-align: left;
+    margin-top: -60px;
+    margin-left: 900px;
+}
+
+.boogie7 {
+    color: red;
+    font-family: HuskyStash-Regular;
+    font-size: 50px;
+    text-align: left;
+    margin-top: -10px;
+    
+
+}
+
+.boogie8 {
+    color: purple;
+    font-family: HuskyStash-Regular;
+    font-size: 50px;
+    text-align: left;
+    margin-top: -60px;
+    margin-left: 450px;
+}
+
+.boogie9 {
+    color: red;
+    font-family: HuskyStash-Regular;
+    font-size: 50px;
+    text-align: left;
+    margin-top: -60px;
+    margin-left: 900px;
+}
+.boogie10 {
+    color: purple;
+    font-family: HuskyStash-Regular;
+    font-size: 50px;
+    text-align: left;
+    margin-top: -10px;
+    
+
+}
+
+.boogie11 {
+    color: red;
+    font-family: HuskyStash-Regular;
+    font-size: 50px;
+    text-align: left;
+    margin-top: -60px;
+    margin-left: 450px;
+}
+
+.boogie12 {
+    color: purple;
+    font-family: HuskyStash-Regular;
+    font-size: 50px;
+    text-align: left;
+    margin-top: -60px;
+    margin-left: 900px;
+}
+
+.boogie13 {
+    color: red;
+    font-family: HuskyStash-Regular;
+    font-size: 50px;
+    text-align: left;
+    margin-top: -10px;
+    
+
+}
+
+.boogie14 {
+    color: purple;
+    font-family: HuskyStash-Regular;
+    font-size: 50px;
+    text-align: left;
+    margin-top: -60px;
+    margin-left: 450px;
+}
+
+.boogie15 {
+    color: red;
+    font-family: HuskyStash-Regular;
+    font-size: 50px;
+    text-align: left;
+    margin-top: -60px;
+    margin-left: 900px;
+}
+
+.boogie16 {
+    color: purple;
+    font-family: HuskyStash-Regular;
+    font-size: 50px;
+    text-align: left;
+    margin-top: -10px
+    
+
+}
+
+.boogie17 {
+    color: red;
+    font-family: HuskyStash-Regular;
+    font-size: 50px;
+    text-align: left;
+    margin-top: -60px;
+    margin-left: 450px;
+}
+
+.boogie18 {
+    color: purple;
+    font-family: HuskyStash-Regular;
+    font-size: 50px;
+    text-align: left;
+    margin-top: -60px;
+    margin-left: 900px;
+}
+.boogie19 {
+    color: red;
+    font-family: HuskyStash-Regular;
+    font-size: 50px;
+    text-align: left;
+    margin-top: -10px;
+    
+
+}
+
+.boogie20 {
+    color: purple;
+    font-family: HuskyStash-Regular;
+    font-size: 50px;
+    text-align: left;
+    margin-top: -60px;
+    margin-left: 450px;
+}
+
+.boogie21 {
+    color: red;
+    font-family: HuskyStash-Regular;
+    font-size: 50px;
+    text-align: left;
+    margin-top: -60px;
+    margin-left: 900px;
+}
+
+.boogie22 {
+    color: purple;
+    font-family: HuskyStash-Regular;
+    font-size: 50px;
+    text-align: left;
+    margin-top: -10px;
+    
+
+}
+
+.boogie23 {
+    color: red;
+    font-family: HuskyStash-Regular;
+    font-size: 50px;
+    text-align: left;
+    margin-top: -60px;
+    margin-left: 450px;
+}
+
+.boogie24 {
+    color: purple;
+    font-family: HuskyStash-Regular;
+    font-size: 50px;
+    text-align: left;
+    margin-top: -60px;
+    margin-left: 900px;
+}
+.boogie25 {
+    color: red;
+    font-family: HuskyStash-Regular;
+    font-size: 50px;
+    text-align: left;
+    margin-top: -10px;
+    
+
+}
+
+.boogie26 {
+    color: purple;
+    font-family: HuskyStash-Regular;
+    font-size: 50px;
+    text-align: left;
+    margin-top: -60px;
+    margin-left: 450px;
+}
+
+.boogie27{
+    color: red;
+    font-family: HuskyStash-Regular;
+    font-size: 50px;
+    text-align: left;
+    margin-top: -60px;
+    margin-left: 900px;
+}
+
+.boogie28 {
+    color: purple;
+    font-family: HuskyStash-Regular;
+    font-size: 50px;
+    text-align: left;
+    margin-top: -10px;
+    
+
+}
+
+.boogie29 {
+    color: red;
+    font-family: HuskyStash-Regular;
+    font-size: 50px;
+    text-align: left;
+    margin-top: -60px;
+    margin-left: 450px;
+}
+
+.boogie30 {
+    color: purple;
+    font-family: HuskyStash-Regular;
+    font-size: 50px;
+    text-align: left;
+    margin-top: -60px;
+    margin-left: 900px;
+}
+
+.boogie31 {
+    color: red;
+    font-family: HuskyStash-Regular;
+    font-size: 50px;
+    text-align: left;
+    margin-top: -10px;
+    
+
+}
+
+.boogie32 {
+    color: purple;
+    font-family: HuskyStash-Regular;
+    font-size: 50px;
+    text-align: left;
+    margin-top: -60px;
+    margin-left: 450px;
+}
+
+.boogie33 {
+    color: red;
+    font-family: HuskyStash-Regular;
+    font-size: 50px;
+    text-align: left;
+    margin-top: -60px;
+    margin-left: 900px;
+}
+.boogie34 {
+    color: purple;
+    font-family: HuskyStash-Regular;
+    font-size: 50px;
+    text-align: left;
+    margin-top: -10px;
+    
+
+}
+
+.boogie35 {
+    color: red;
+    font-family: HuskyStash-Regular;
+    font-size: 50px;
+    text-align: left;
+    margin-top: -60px;
+    margin-left: 450px;
+}
+
+.boogie36 {
+    color: purple;
+    font-family: HuskyStash-Regular;
+    font-size: 50px;
+    text-align: left;
+    margin-top: -60px;
+    margin-left: 900px;
+}
+
+.boogie37 {
+    color: red;
+    font-family: HuskyStash-Regular;
+    font-size: 50px;
+    text-align: left;
+    margin-top: -10px;
+    
+
+}
+
+.boogie38 {
+    color: purple;
+    font-family: HuskyStash-Regular;
+    font-size: 50px;
+    text-align: left;
+    margin-top: -60px;
+    margin-left: 450px;
+}
+
+.boogie39 {
+    color: red;
+    font-family: HuskyStash-Regular;
+    font-size: 50px;
+    text-align: left;
+    margin-top: -60px;
+    margin-left: 900px;
+}
+
+.boogie40 {
+    color: purple;
+    font-family: HuskyStash-Regular;
+    font-size: 50px;
+    text-align: left;
+    margin-top: -10px;
+    
+
+}
+
+.boogie41 {
+    color: red;
+    font-family: HuskyStash-Regular;
+    font-size: 50px;
+    text-align: left;
+    margin-top: -60px;
+    margin-left: 450px;
+}
+
+.boogie42 {
+    color: purple;
+    font-family: HuskyStash-Regular;
+    font-size: 50px;
+    text-align: left;
+    margin-top: -60px;
+    margin-left: 900px;
+}
+
+.boogie43 {
+    color: red;
+    font-family: HuskyStash-Regular;
+    font-size: 50px;
+    text-align: left;
+    margin-top: -10px;
+    
+
+}
+
+.boogie44 {
+    color: purple;
+    font-family: HuskyStash-Regular;
+    font-size: 50px;
+    text-align: left;
+    margin-top: -60px;
+    margin-left: 450px;
+}
+
+.boogie45 {
+    color: red;
+    font-family: HuskyStash-Regular;
+    font-size: 50px;
+    text-align: left;
+    margin-top: -60px;
+    margin-left: 900px;
+}
+.pulsate {
+    -webkit-animation: pulsate 2s ease-out;
+    -webkit-animation-iteration-count: infinite; 
+    opacity: 0.5;
+   
+}
+@-webkit-keyframes pulsate {
+    0% { 
+        opacity: 0.5;
+    }
+    50% { 
+        opacity: 1.0;
+    }
+    100% { 
+        opacity: 0.5;
+    }
+}
+
+
+
+

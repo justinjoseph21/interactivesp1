@@ -1,0 +1,40 @@
+#CONTAINER {
+	width: 1200px;
+	height: 4000px;
+	margin: auto;
+
+}
+
+@font-face {
+	font-family: "libian";
+	src: url ("libian.ttf");
+}
+
+@font-face {
+	font-family: "Fairview";
+	src: url ("Fairview.ttf");
+}
+#main {
+	font-family: libian;
+	font-size: 300px;
+	color: green;
+	text-align: center;
+
+}
+
+#main2 {
+	font-family: fairview;
+	font-size: 400px;
+	color: blue;
+	text-align: left;
+
+}
+
+#main3 {
+	font-family: libian;
+	font-size: 600px;
+	color: black;
+	text-align: right;
+
+}
+

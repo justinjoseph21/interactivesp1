@@ -2,13 +2,26 @@ body {
 	background: orange;
 }
 
+#background{
+	position: fixed;
+	z-index: -100;
+	margin-top: -10px;
+	margin-left: -10px;
+	opacity: .75;
+}
+
+#containter{
+	width: 1500px;
+	height: 2000px;
+}
+
 h1{
 	font-family: helvetica;
 	font-size: 70px;
-	font-color: white;
+	color: white;
 	position: left;
 	text-align: center;
-	color: blue;
+	z-index: 1;
 
 }
 
@@ -16,8 +29,10 @@ h3 {
 
 	font-family: helvetica;
 	font-size: 50px;
-	font-color: white;
+	color: white;
 	position: left; 
+	text-align: center;
+	z-index: 1;
 
 }
 

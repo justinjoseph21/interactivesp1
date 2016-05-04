@@ -1,0 +1,61 @@
+body{
+	background-color: red;
+}
+
+
+
+.trump1 {
+	
+	margin-left: -10px;
+	color: #0000ff;
+	width: 1410px;
+	height: 100px;
+	background-color: white;
+	position: center;
+	font-style: bold;
+	text-align: center;
+	
+
+}
+
+.trump2{	
+	margin-left: -10px;
+	color: #0000ff;
+	width: 1410px;
+	height: 100px;
+	background-color: white;
+	position: center;
+	font-style: bold;
+	text-align: center;
+}
+
+.trump3{	
+	margin-left: -10px;
+	color: #0000ff;
+	width: 1410px;
+	height: 100px;
+	background-color: white;
+	position: center;
+	font-style: bold;
+	text-align: center;
+}
+
+
+
+.pulsate {
+    -webkit-animation: pulsate 2s ease-out;
+    -webkit-animation-iteration-count: infinite; 
+    opacity: 0.5;
+   
+}
+@-webkit-keyframes pulsate {
+    0% { 
+        opacity: 0.5;
+    }
+    50% { 
+        opacity: 1.0;
+    }
+    100% { 
+        opacity: 0.5;
+    }
+}

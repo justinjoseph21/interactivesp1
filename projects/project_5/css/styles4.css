@@ -1,0 +1,22 @@
+body {
+	background-image: url("5.gif");
+	background-color: red;
+	;
+}
+
+#container{
+	width: 10000px;
+	height: 800px;
+}
+
+#gif2{
+	margin-left: 1500px;
+}
+
+#gif3{
+	margin-left: 1800px;
+}
+
+#gif5{
+	margin-left: 2300px;
+}

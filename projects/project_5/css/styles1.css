@@ -1,0 +1,27 @@
+#container {
+	width: 100%;
+	
+}
+
+@font-face {
+    font-family: Montserrat Bold;
+    src: url(Montserrat Bold.otf);
+}
+
+#click {
+
+	position: absolute;
+	z-index: 100;
+}
+
+#click2 {
+	font-family: Montserrat Bold;
+	font-size: 60px;
+	position: absolute;
+	margin: auto;
+	z-index: 200;
+	color: white;
+	text-align: center;
+	margin-left: 250px;
+	margin-top: 450px;
+}

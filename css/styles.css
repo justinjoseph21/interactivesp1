@@ -1,0 +1,29 @@
+body {
+	background: orange;
+}
+
+h1{
+	font-family: helvetica;
+	font-size: 70px;
+	font-color: white;
+	position: left;
+	text-align: center;
+	color: blue;
+
+}
+
+h3 {
+
+	font-family: helvetica;
+	font-size: 50px;
+	font-color: white;
+	position: left; 
+
+}
+
+a{
+	text-decoration: none;
+	color: blue;
+}
+
+

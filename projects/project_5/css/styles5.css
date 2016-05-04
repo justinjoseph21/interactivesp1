@@ -1,0 +1,40 @@
+
+
+#trump{
+	position: fixed;
+	z-index: -10;
+	margin-top: 100px;
+	margin-left: 100px;
+	
+}
+
+#dress1{
+cursor:move;
+z-index: 1;
+margin-left: 600px;
+}
+
+#dress2{
+	cursor:move;
+	z-index: 1;
+	margin-left: 600px;
+	
+}
+
+#dress3{
+	cursor:move;
+	z-index: 1;
+	margin-left: 600px;
+}
+
+#dress4{
+	cursor:move;
+	z-index: 1;
+	margin-left: 600px;
+}
+
+#dress5{
+	cursor:move;
+	z-index: 1;
+	margin-left: 600px;
+}

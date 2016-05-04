@@ -1,29 +1,60 @@
-#container{
+#what {
+	position: fixed;
+	z-index: -10;
 	width: 1450px;
-	height: 3000px;
+	height: 1000px;
 }
 
+#container{
+	width: 1450px;
+	height: 1000px;
+	z-index: 1;
+}
+
+#content{
+	z-index: auto;
+	width: 1450px;
+	height: 1000px;
+
+}
+
+#hair1{
+	float: left;
+	cursor:move;
+}
 
 #hair2{
 	float: left;
+	cursor:move;
 }
 
 #hair3{
 	float: left;
+	cursor:move;
 }
 
 #hair4{
 	float: left;
+	cursor:move;
 }
 
 #hair5{
 	float: left;
+	cursor:move;
 }
 
 #hair6{
 	float: left;
+	cursor:move;
 }
 
 #hair7{
 	float: left;
+	cursor:move;
 }
+#hair8{
+	float: left;
+	cursor:move;
+}
+
+

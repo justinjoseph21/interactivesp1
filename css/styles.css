@@ -1,13 +1,19 @@
+
+
 body {
 	background: orange;
 }
+@font-face {
+    font-family: HuskyStash-Regular;
+    src: url(HuskyStash-Regular.otf);
+ }
 
 #background{
 	position: fixed;
 	z-index: -100;
-	margin-top: -10px;
+	margin-top: -100px;
 	margin-left: -10px;
-	opacity: .75;
+	opacity: .70;
 }
 
 #containter{
@@ -16,7 +22,7 @@ body {
 }
 
 h1{
-	font-family: helvetica;
+	font-family: HuskyStash-Regular;
 	font-size: 70px;
 	color: white;
 	position: left;
@@ -27,7 +33,7 @@ h1{
 
 h3 {
 
-	font-family: helvetica;
+	font-family: HuskyStash-Regular;
 	font-size: 50px;
 	color: white;
 	position: left; 
@@ -40,5 +46,8 @@ a{
 	text-decoration: none;
 	color: blue;
 }
+
+a:hover { 
+    background-color: pink;
 
 
